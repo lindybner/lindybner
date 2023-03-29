@@ -1,6 +1,7 @@
-### Hi there 👋
-> **Notes**\
-> Work in progress
+#Jim Lin-Dybner
+
+I'm a postgrad student at Humber College in Toronto, Canada.
+
 <!--
 **jimlindybner/jimlindybner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
