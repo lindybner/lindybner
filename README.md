@@ -1,6 +1,6 @@
 #Jim Lin-Dybner
 
-I'm a postgrad student at Humber College in Toronto, Canada.
+I'm a postgrad student at Humber College in Toronto, Ontario, Canada.
 
 <!--
 **jimlindybner/jimlindybner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
