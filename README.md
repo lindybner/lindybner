@@ -6,6 +6,9 @@ With a solid web development and digital marketing background in the financial s
 
 Currently, I am further honing my skills as a postgraduate student in web development at Humber College, complementing my Honours Bachelor of Arts degree from the University of Toronto.
 
+<details>
+  <summary>GitHub Stats</summary>
+
 <!--
 **jimlindybner/jimlindybner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
