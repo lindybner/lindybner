@@ -11,7 +11,7 @@ Currently, I am further honing my skills as a postgraduate student in web develo
 - [LinkedIn](https://github.com/jimlindybner)
 - [Contact](http://lindybner.com/#contact)
 
-## Some of the Languages I'm Working With&hellip;
+## Some of the Languages I'm Working With!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimlindybner&layout=compact)
 
