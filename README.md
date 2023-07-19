@@ -1,6 +1,10 @@
 # Jim Lin-Dybner
 
-I'm a postgrad student at Humber College in Toronto, Ontario, Canada.
+My name is Jim Lin-Dybner, a web developer based in Toronto, Ontario, Canada.
+
+With a solid web development and digital marketing background in the financial services and banking industry, I bring a unique perspective to my web development projects. Combining my expertise in web development, design, web content, SEO, and digital marketing, I craft immersive online experiences that captivate and engage users.
+
+Currently, I am further honing my skills as a postgraduate student in web development at Humber College, complementing my Honours Bachelor of Arts degree from the University of Toronto.
 
 <!--
 **jimlindybner/jimlindybner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
