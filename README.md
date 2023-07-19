@@ -1,4 +1,4 @@
-# Jim Lin-Dybner
+# Welcome!
 
 My name is Jim Lin-Dybner, a web developer based in Toronto, Ontario, Canada.
 
