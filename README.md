@@ -13,7 +13,7 @@ Currently, I am further honing my skills as a postgraduate student in web develo
 
 ## Languages I'm Working With
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimlindybner)](https://github.com/jimlindybner/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimlindybner&layout=compact)
 
 <!--
 **jimlindybner/jimlindybner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
