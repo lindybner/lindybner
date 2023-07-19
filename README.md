@@ -9,7 +9,7 @@ Currently, I am further honing my skills as a postgraduate student in web develo
 ## Portfolios / Social Media
 - [Portfolio Website](http://lindybner.com)
 - [LinkedIn](https://github.com/jimlindybner)
-- [Contact](HTTP://lindybner.com/contact)
+- [Contact](http://lindybner.com/#contact)
 
 <!--
 **jimlindybner/jimlindybner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
