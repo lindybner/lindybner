@@ -6,7 +6,7 @@ With a solid web development and digital marketing background in the financial s
 
 Currently, I am further honing my skills as a postgraduate student in web development at Humber College, complementing my Honours Bachelor of Arts degree from the University of Toronto.
 
-## Portfolios / Social Media
+## Portfolio / Connect
 - [Portfolio Website](http://lindybner.com)
 - [LinkedIn](https://github.com/jimlindybner)
 - [Contact](http://lindybner.com/#contact)
