@@ -11,7 +11,7 @@ Currently, I am further honing my skills as a postgraduate student in web develo
 - [LinkedIn](https://github.com/jimlindybner)
 - [Contact](http://lindybner.com/#contact)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimlindybner)](https://github.com/jimlindybner/github-readme-stats)
 
 <!--
 **jimlindybner/jimlindybner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
