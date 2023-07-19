@@ -1,6 +1,6 @@
 # Jim Lin-Dybner
 
-My name is Jim Lin-Dybner, a web developer based in Toronto, Ontario, Canada.
+My name is Jim Lin-Dybner. I'm a web developer based in Toronto, Ontario, Canada.
 
 With a solid web development and digital marketing background in the financial services and banking industry, I bring a unique perspective to my web development projects. Combining my expertise in web development, design, web content, SEO, and digital marketing, I craft immersive online experiences that captivate and engage users.
 
