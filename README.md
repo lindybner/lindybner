@@ -6,7 +6,7 @@ With a solid web development and digital marketing background in the financial s
 
 ## Portfolio / Connect
 - [Portfolio Website](http://lindybner.com)
-- [LinkedIn](https://github.com/jimlindybner)
+- [LinkedIn](https://linkedin.com/in/jimlindybner)
 - [Contact](http://lindybner.com/#contact)
 
 ## Some of the Languages I'm Working With!
