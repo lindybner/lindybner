@@ -10,9 +10,9 @@ Combining expertise in web development, web design, SEO web content, and digital
 - [LinkedIn](http://linkedin.com/company/lindybner/)
 - [Contact](http://lindybner.com/#contact)
 
-## Some of the Languages LDWS Works With!
+## Programming Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimlindybner&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lindybner&layout=compact)
 
 <!--
 **jimlindybner/jimlindybner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
