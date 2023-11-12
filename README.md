@@ -4,7 +4,7 @@ With a solid web development and digital marketing background, especially in fin
 
 Combining expertise in web development, web design, SEO web content, and digital marketing, I craft immersive online experiences that captivate and engage users.
 
-- [Portfolio Website](http://lindybner.com)
+- [Portfolio](http://lindybner.com)
 - [Contact](http://lindybner.com/#contact)
 
 ## Some of the Languages I'm Working With!
