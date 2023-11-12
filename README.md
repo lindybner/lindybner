@@ -1,12 +1,10 @@
 # Jim Lin-Dybner
 
-My name is **Jim Lin-Dybner**. I'm a **web developer** based in Toronto, Ontario, Canada.
+With a solid web development and digital marketing background, especially in financial services, banking, education and digital humanities, I bring a unique perspective to my web and digital projects.
 
-With a solid web development and digital marketing background in the financial services and banking industry, I bring a unique perspective to my web development projects. Combining my expertise in **web development**, **web design**, **SEO web content**, and **digital marketing**, I craft immersive online experiences that captivate and engage users.
+Combining expertise in web development, web design, SEO web content, and digital marketing, I craft immersive online experiences that captivate and engage users.
 
-## Portfolio / Connect
 - [Portfolio Website](http://lindybner.com)
-- [LinkedIn](https://linkedin.com/in/jimlindybner)
 - [Contact](http://lindybner.com/#contact)
 
 ## Some of the Languages I'm Working With!
