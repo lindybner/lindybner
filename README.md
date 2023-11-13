@@ -8,6 +8,5 @@ Combining expertise in web development, web design, SEO web content, and digital
 
 - [Portfolio](http://lindybner.com)
 - [LinkedIn](http://linkedin.com/company/lindybner/)
-- [Contact](http://lindybner.com/#contact)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lindybner&layout=compact)
