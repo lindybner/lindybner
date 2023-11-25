@@ -2,13 +2,13 @@
 
 Hi there! Welcome to Lin-Dybner Web Studio, a Toronto-based freelance web development and design shop.
 
-**What LDWS Does:**
+**Specialties:**
 - Web Development
 - Web Design
 - SEO Web Content
 - Digital Marketing
 
-**Areas:**
+**Industries:**
 - Financial Services
 - Banking
 - Education
@@ -26,9 +26,6 @@ With a mix of creativity and technical expertise, LDWS crafts immersive online e
 - [LinkedIn](http://linkedin.com/company/lindybner/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lindybner&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lindybner&show_icons=true)
-
-[![Lin-Dybner GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lindybner&theme=xcode)]()
 
 *Looking forward to collaborating on exciting projects!*
 
