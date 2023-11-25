@@ -1,6 +1,6 @@
 # Lin-Dybner Web Studio
 
-Hi there! Welcome to Lin-Dybner Web Studio, a Toronto-based freelance web development and design shop.
+Welcome to Lin-Dybner Web Studio &mdash; a Toronto-based freelance web development and design shop.
 
 **Specialties:**
 - Web Development
