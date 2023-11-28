@@ -26,7 +26,7 @@ With a mix of creativity and technical expertise, LDWS crafts immersive online e
 - [Portfolio](http://lindybner.com)
 - [LinkedIn](http://linkedin.com/company/lindybner/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lindybner&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lindybner&hide_progress=true)
 
 *Looking forward to collaborating on exciting projects!*
 
