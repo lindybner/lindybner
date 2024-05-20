@@ -17,7 +17,6 @@ _Toronto-based freelance web development and design._
 With a mix of creativity and technical expertise, LDWS crafts immersive online experiences that captivate and engage users.
 
 **Featured Projects:**
-- [AI-Powered Vocabulary Index Cards](HTTP://vocab.lindybner.com)
 - [Island Folklore](https://islandfolklore.com)
 - [Probability Visualizer](http://probability.lindybner.com)
 - [More Projects](https://lindybner.com#portfolio)
