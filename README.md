@@ -18,7 +18,8 @@ With a mix of creativity and technical expertise, LDWS crafts immersive online e
 
 **Featured Projects:**
 - [Island Folklore](https://islandfolklore.com)
-- [Probability Visualizer](http://probability.lindybner.com)
+- [Datini](https://datini.lindybner.com)
+- [Probability Visualizer](https://probability.lindybner.com)
 - [More Projects](https://lindybner.com#portfolio)
 
 **Connect:**
